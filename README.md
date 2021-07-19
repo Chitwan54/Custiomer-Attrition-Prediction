@@ -5,3 +5,8 @@ The training dataset contains 6338 samples and the testset contains 705 samples.
 
 Objective:
 To predict the customer Attrition for each customer in the given dataset using data science models.
+
+The Repository contains the following:
+1) Jupyter Notebook (solution for the problem)
+2) customerattritionprediction.zip file (contains the data)
+3) README.md file
