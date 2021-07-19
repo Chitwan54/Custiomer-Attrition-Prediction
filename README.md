@@ -9,4 +9,5 @@ To predict the customer Attrition for each customer in the given dataset using d
 The Repository contains the following:
 1) Jupyter Notebook (solution for the problem)
 2) customerattritionprediction.zip file (contains the data)
-3) README.md file
+3) Data Dictionary
+4) README.md file
